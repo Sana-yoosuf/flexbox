@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.products{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin-top: 20px; 
+}
+.p1{
+    background-color: rgb(247, 195, 182);
+    width: 20%;
+    padding:5%;
+}
+.p2{
+    background-color: rgb(247, 153, 153);
+    width: 20%;
+    padding: 5%;
+}
+.p3{
+    background-color: rgb(245, 118, 118);
+    width: 20%;
+    padding: 5%;
+}
+.p4{
+    background-color: rgb(241, 79, 79);
+    width:20%;
+    padding: 5%;
+}
+.content{
+    background-color: aqua;
+    width: fit-content;
+}
